@@ -6,5 +6,8 @@ A bipedal robot built with M5Stack
 ## 3D Model
 [3D Model](3Ddata/)
 
+## PCB for SG90
+[gerber](pcb/)
+
 ## Sample sketch
 [Sample sketch](examples/)
