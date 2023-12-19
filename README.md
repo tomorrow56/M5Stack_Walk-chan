@@ -8,6 +8,7 @@ A bipedal robot built with M5Stack
 
 ## PCB for SG90
 [gerber](pcb/)
+![Schematic](pcb/Schematic.png)
 
-## Sample sketch
+## Sample Code
 [Sample sketch](examples/)
