@@ -12,3 +12,6 @@ A bipedal robot built with M5Stack
 
 ## Sample Code
 [Sample sketch](examples/)
+
+## note
+https://note.com/tomorrow56/n/nf83f81b76e1e
