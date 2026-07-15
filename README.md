@@ -15,3 +15,6 @@ A bipedal robot built with M5Stack
 
 ## note
 https://note.com/tomorrow56/n/nf83f81b76e1e
+
+## Printables
+https://www.printables.com/model/687241-m5stack-walk-chan
